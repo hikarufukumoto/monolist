@@ -14,8 +14,6 @@
 @endsection
 
 @section('content')
-    @section('content')
     @include('items.items')
     {!! $items->render() !!}
-@endsection
 @endsection
