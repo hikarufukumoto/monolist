@@ -31,4 +31,4 @@ class UsersController extends Controller
             'count_have' => $count_have,
         ]);
     }
-}
+} 
